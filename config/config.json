@@ -28,9 +28,9 @@
     "receiver2": "mixi92@163.com",
     "init_host_config": "163",
     "subject": "",
-    "msgcontent": "deliver by palexu"
+    "msgcontent": "deliver by test"
   },
   "serverChan": {
-    "scKey": "SCU11255T9aac1a1f33b21e14d151caa16d6b424d59a66f9a1264f"
+    "scKey": "SCU18316T74d2f7c6fd6a5bbd7c16ce6e8803f2375a366cbc3f006"
   }
 }
