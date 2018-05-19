@@ -19,7 +19,7 @@ class MailTest(unittest.TestCase):
         f.write(newfc)
         f.close()
         mail = Kmail.Mail()
-        mail.set_receiver("1098672878@qq.com")
+        mail.set_receiver("122694501@qq.com")
         mail.send2kindle([newf, ])
 
         os.remove(newf)
