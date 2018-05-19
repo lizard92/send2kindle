@@ -25,7 +25,7 @@ class ScrapyTest(unittest.TestCase):
 
         service = Novel.Service()
         service.mailSender = mock_Mail()
-        service.mailSender.set_receiver("1098672878@qq.com")
+        service.mailSender.set_receiver("122694501@qq.com")
         service.mailSender.init_host_config('163')
 
         for link in settings:
