@@ -19,13 +19,13 @@
   "mail": {
     "hostconf": {
       "163": {
-        "sender": "15957180610@163.com",
-        "password": "xujunyu520",
+        "sender": "mixi92@163.com",
+        "password": "new92.",
         "host": "smtp.163.com"
       }
     },
-    "receiver": "cnxujunyu@kindle.cn",
-    "receiver2": "cnxujunyu@gmail.com",
+    "receiver": "122694501@qq.com",
+    "receiver2": "mixi92@163.com",
     "init_host_config": "163",
     "subject": "",
     "msgcontent": "deliver by palexu"
