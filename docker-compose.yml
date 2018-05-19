@@ -1,5 +1,5 @@
 send2kindle:
     build: .
-    container_name: s2k
+    container_name: test
     volumes:
         - ../send2kindle:/app/send2kindle
