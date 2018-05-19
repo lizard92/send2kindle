@@ -1,5 +1,5 @@
 send2kindle:
     build: .
-    container_name: 01
+    container_name: fuck
     volumes:
         - ../send2kindle:/app/send2kindle
